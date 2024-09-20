@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e093b92f-5f29-413e-9fa9-f667fafe3807" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2mLbrPDppH0EW8H8i4aUKux5Xxm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -42,7 +50,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,7 +80,7 @@
       <workItem from="1726859005568" duration="109000" />
       <workItem from="1726859123921" duration="497000" />
       <workItem from="1726859774922" duration="821000" />
-      <workItem from="1726860685961" duration="1301000" />
+      <workItem from="1726860685961" duration="2052000" />
     </task>
     <task id="LOCAL-00001" summary="Create temp files">
       <option name="closed" value="true" />
@@ -82,7 +90,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726860966975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create temp files update image and readme">
+      <option name="closed" value="true" />
+      <created>1726862086113</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726862086113</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create temp files update image and readme">
+      <option name="closed" value="true" />
+      <created>1726862120802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726862120802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +115,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create temp files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create temp files" />
+    <MESSAGE value="Create temp files update image and readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create temp files update image and readme" />
   </component>
 </project>
