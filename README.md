@@ -1,11 +1,10 @@
 # Currency-Converter
-Currency Converter Rand Dollar
 
 <div align="center">
-  <kbd> <img src="https://github.com/Jackson-Wozniak/Elevation-Airlines/assets/105665813/13133968-b09d-4036-b944-ac32a0c66a41" width="700" height="318"/> </kbd>
+  <kbd> <img src=assets\default.jpeg width="700" height="700"/> </kbd>
   
 
-  <h3 align="center">Airline Tracker & Reservation System</h3>
+  <h3 align="center">Currency Converter Application</h3>
 
   <a href="https://github.com/Jackson-Wozniak/Airline-Reservation-System/edit/main/backend"><strong>Explore The Code»</strong></a>
     </br>
@@ -26,7 +25,7 @@ Currency Converter Rand Dollar
 
 <ol>
     <li><a href="#features">Features</a></li>
-    <li><a href="#tracking">Flight Tracking</a></li>
+    <li><a href="#TBA">To be Announced</a></li>
     <li><a href="#technologies">Technologies</a></li>
     <li><a href="#local-dev">Local Deployment</a></li>
 </ol>    
@@ -35,18 +34,10 @@ Currency Converter Rand Dollar
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ## 📓 Features & Overview <a id="features"></a>
-An airline tracking system that generates flights to popular airports across the world. The airline used in this simulation is called Elevation Airlines, and is a fake airline. Route generation is largely random, and the flights each plane takes does not necessarily match the popular flights real airlines fly.
-
-Airport data is found from <a href="https://ourairports.com/data"/>ourairports.com</a> and is filtered to only include those that have the large_airports tag
-
-The image used as the preview for this repo can be found <a href="https://wallpaperaccess.com/full/254381.jpg" />here </a>
-
+A Simple currency converter app
 <br>
 
-## ✈️ Flight Tracking <a id="tracking"></a>
-Elevation airlines runs two categories of flights. Scheduled flights are those scheduled from the same airports each day, and run at the same time-of-day no matter what. These are round trip flights, meaning the plane will travel to and from each airport once a day. The second type of flight is random routes, which are scheduled once daily and all planes in the airlines fleet that do not have a scheduled route will fly to a random airport once a day. Departures are set based on the location of the plane at the time, meaning planes will follow a path and can only depart from their current location.
-
-Full API docs can be found <a href="https://github.com/Jackson-Wozniak/Airline-Reservation-System/blob/main/backend/flight-tracking-service/flight-tracking-documentation.md" />here</a>
+## ✈️ TBA<a id="TBA"></a>
 
 <br>
 
@@ -79,7 +70,7 @@ coming soon...
 To run locally, follow these commands
 
 ```
-- git clone https://github.com/Jackson-Wozniak/Airline-Reservation-System.git
+- git clone https://github.com/ashaylin12/Currency-converter.git
 - cd (to the location of cloned repo)
 - docker-compose up
 
