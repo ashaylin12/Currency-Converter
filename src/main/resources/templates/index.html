@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Currency Converter</title>
+</head>
+<body>
+<h1>ZAR to EUR Converter</h1>
+<form action="/convert" method="post">
+    <label for="rands">Enter amount in Rands:</label>
+    <input type="number" id="rands" name="rands" required>
+    <button type="submit">Convert</button>
+</form>
+
+<div th:if="${euros}">
+    <p th:text="'Amount in Euros: ' + ${euros}"></p>
+    <p th:text="'Amount in Rands: ' + ${rands}"></p>
+</div>
+</body>
+</html>

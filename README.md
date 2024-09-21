@@ -52,16 +52,16 @@ coming soon...
 - Java
 - Spring Boot
 - Maven
-- MySQL
+
 
 #### Frontend
 
-- React
+- HTML
 - JavaScript
 
 #### General
 - Git
-- Docker
+
 
 <br>
 
@@ -70,13 +70,6 @@ coming soon...
 To run locally, follow these commands
 
 ```
-- git clone https://github.com/ashaylin12/Currency-converter.git
-- cd (to the location of cloned repo)
-- docker-compose up
+Run locally and access via http://localhost:8080/
 
-to shut down the application, run:
-- docker-compose down
-
-to restart the app after making local changes (to rebuild the jar file), run:
--docker-compose up --build
 ```
