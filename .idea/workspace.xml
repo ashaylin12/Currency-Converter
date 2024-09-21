@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e093b92f-5f29-413e-9fa9-f667fafe3807" name="Changes" comment="added maven dependencies">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencyconverter/CCApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencyconverter/controller/CurrencyConverterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="e093b92f-5f29-413e-9fa9-f667fafe3807" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature/Create_website_and_classes" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -129,7 +120,7 @@
       <workItem from="1726865699968" duration="1416000" />
       <workItem from="1726868788101" duration="3735000" />
       <workItem from="1726877697821" duration="165000" />
-      <workItem from="1726880457594" duration="1224000" />
+      <workItem from="1726880457594" duration="1448000" />
     </task>
     <task id="LOCAL-00001" summary="Create temp files">
       <option name="closed" value="true" />
@@ -171,7 +162,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726863180373</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="created website and controller classes">
+      <option name="closed" value="true" />
+      <created>1726881762232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726881762232</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +181,7 @@
     <MESSAGE value="Create temp files" />
     <MESSAGE value="Create temp files update image and readme" />
     <MESSAGE value="added maven dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="added maven dependencies" />
+    <MESSAGE value="created website and controller classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="created website and controller classes" />
   </component>
 </project>
